@@ -1,0 +1,400 @@
+Ian Adams
+	Ian Adams 	A02252812 	1899634 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 6:38pm
+	
+28:05
+	
+Keaton Anderson
+	Keaton Anderson 	A02348614 	1993263 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 3:36pm
+	
+01:53:31
+	
+Kelsye Anderson
+	Kelsye Anderson 	A02093326 	1739889 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 12 at 11:38am
+	
+58:19
+	
+Logan Ballard
+	Logan Ballard 	A02253793 	1900619 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 12 at 12:31pm
+	
+01:07:49
+	
+Matthew Bingham
+	Matthew Bingham 	A02173304 	1819641 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 8:54pm
+	
+01:15:27
+	
+Jade Blunt
+	Jade Blunt 	A02245379 	1891794 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 12 at 9:26am
+	
+01:24:14
+	
+Michael Childs
+	Michael Childs 	A02279536 	1926485 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 11:12am
+	
+11:48
+	
+Jake Cogswell
+	Jake Cogswell 	A01785439 	1427840 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 12 at 11:21am
+	
+03:10:49
+	
+Bennett DenBleyker
+	Bennett DenBleyker 	A02324124 	1971287 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 4:55pm
+	
+50:18
+	
+Hailey Dennis
+	Hailey Dennis (She/Her) 	A02242676 	1889073 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 12 at 10:59am
+	
+02:43:13
+	
+Jake Epperson
+	Jake Epperson 	A02307503 	1954544 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 9:15pm
+	
+12:55
+	
+James Field
+	James Field 	A02218302 	1864578 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 12:34pm
+	
+44:33
+	
+Bryce Flammer
+	Bryce Flammer 	A02250893 	1897316 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 2:07pm
+	
+01:18:57
+	
+Braeden Grant
+	Braeden Grant 	A02165416 	1811742 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 12:01pm
+	
+16:41
+	
+Jacob Haight
+	Jacob Haight 	A02308678 	1955722 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 12 at 12:34pm
+	
+01:18:12
+	
+Joshua Hamby
+	Joshua Hamby 	A02200228 	1846606 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 12 at 12:08pm
+	
+03:29:48
+	
+Alexander Hardy
+	Alexander Hardy 	A02209125 	1855445 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 12 at 10:47am
+	
+25:45
+	
+Matthew Hill
+	Matthew Hill 	A02290335 	1937305 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 12:30pm
+	
+01:31:24
+	
+Jacob Holbrook
+	Jacob Holbrook 	A02228637 	1874944 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 8:08pm
+	
+17:30
+	
+Logan Hunt
+	Logan Hunt 	A02364151 	2005158 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 12 at 11:53am
+	
+01:07:45
+	
+Trevor Jex
+	Trevor Jex 	A02283455 	1930406 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 12:34pm
+	
+09:38
+	
+Rob Johnson
+	Rob Johnson (He/Him) 	A01850448 	1492695 	
+Spring 2022 CS-3450-001
+	
+TA
+	
+Jan 12 at 12:47pm
+	
+	
+Samuel Johnson
+	Samuel Johnson 	A01864238 	1506466 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 7:49pm
+	
+04:03
+	
+Hagen Larsen
+	Hagen Larsen 	A02254637 	1901468 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 10:27pm
+	
+02:02:10
+	
+Thomas Lau
+	Thomas Lau (He/Him) 	A02274627 	1921560 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 12 at 1:09am
+	
+01:57:18
+	
+Xander Matheson
+	Xander Matheson 	A02252926 	1899748 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 11:14pm
+	
+01:05:43
+	
+Brian Mathews
+	Brian Mathews 	A01972563 	1614904 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 5:47pm
+	
+08:09
+	
+Kyler Nelson
+	Kyler Nelson 	A02218706 	1864983 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 10:53pm
+	
+42:41
+	
+Quinn Ormond
+	Quinn Ormond 	A02238562 	1884923 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 2:55pm
+	
+10:13
+	
+Aryan Osqueezadeh
+	Aryan Osqueezadeh 	A02289878 	1936847 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 3:07pm
+	
+01:14:54
+	
+Wesley Perrett
+	Wesley Perrett 	A02167240 	1813568 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 12:27pm
+	
+04:16
+	
+Andrew Peterson
+	Andrew Peterson 	A02325682 	1972893 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 12 at 11:35am
+	
+01:02:33
+	
+Matt Scribner
+	Matt Scribner 	A02229506 	1875815 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 12 at 9:28am
+	
+48:18
+	
+James Seelos
+	James Seelos 	A02298425 	1945431 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 5:21pm
+	
+	
+James Slade
+	James Slade 	A02265151 	1912018 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 12 at 8:48am
+	
+30:38
+	
+Noal Smith
+	Noal Smith 	A02044660 	1686419 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 12 at 12:07pm
+	
+47:12
+	
+Richard Snider
+	Richard Snider 	A02298443 	1945449 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 12 at 11:08am
+	
+56:15
+	
+Dave Storey
+	Dave Storey 	A01872121 	1514220 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 11 at 2:38pm
+	
+52:37
+	
+Jasper Swensen
+	Jasper Swensen 	A02285021 	1931973 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 12 at 12:37pm
+	
+15:47
+	
+Camila Vulcano
+	Camila Vulcano 	A02265570 	1912443 	
+Spring 2022 CS-3450-001
+	
+Student
+	
+Jan 12 at 12:28pm
+	
+01:40:49
+	
+Tom Waite
+	Tom Waite (He/Him) 
