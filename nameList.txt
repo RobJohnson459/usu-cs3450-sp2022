@@ -21,7 +21,7 @@ x	Logan Hunt
 x	Trevor Jex
 x	Rob Johnson
 x	Samuel Johnson
-x	Hagen Larsen
+Hagen Larsen (Hagen)
 x	Thomas Lau
 x	Xander Matheson
 x	Brian Mathews
