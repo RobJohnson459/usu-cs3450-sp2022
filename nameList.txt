@@ -33,7 +33,7 @@ x	Andrew Peterson
 x	Matt Scribner
 x	James Seelos
 x	James Slade
-x	Noal Smith
+Noal Smith
 x	Richard Snider
 x	Dave Storey
 x	Jasper Swensen
