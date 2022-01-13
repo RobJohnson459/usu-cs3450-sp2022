@@ -10,7 +10,7 @@ x	Bennett DenBleyker
 x	Hailey Dennis
 x	Jake Epperson
 x	James Field
-x	Bryce Flammer
+Bryce Flammer (Bryce)
 x	Braeden Grant
 x	Jacob Haight
 x	Joshua Hamby
