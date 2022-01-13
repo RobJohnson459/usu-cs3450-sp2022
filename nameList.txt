@@ -35,6 +35,6 @@ x	James Seelos
 x	James Slade
 x	Noal Smith
 x	Richard Snider
-x	Dave Storey
+Dave Storey (Dave)
 x	Jasper Swensen
 x	Camila Vulcano
