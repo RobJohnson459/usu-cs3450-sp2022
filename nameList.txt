@@ -27,7 +27,7 @@ x	Xander Matheson
 x	Brian Mathews
 x	Kyler Nelson
 x	Quinn Ormond
-x	Aryan Osqueezadeh
+Aryan Osqueezadeh
 x	Wesley Perrett
 x	Andrew Peterson
 x	Matt Scribner
