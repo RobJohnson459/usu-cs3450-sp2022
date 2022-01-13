@@ -23,7 +23,7 @@ x	Rob Johnson
 x	Samuel Johnson
 x	Hagen Larsen
 x	Thomas Lau
-x	Xander Matheson
+Xander Matheson (Xander)
 x	Brian Mathews
 x	Kyler Nelson
 x	Quinn Ormond
