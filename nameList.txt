@@ -34,7 +34,7 @@ x	Matt Scribner
 x	James Seelos
 x	James Slade
 x	Noal Smith
-x	Richard Snider
+Richard Snider (Richard)
 x	Dave Storey
 x	Jasper Swensen
 x	Camila Vulcano
