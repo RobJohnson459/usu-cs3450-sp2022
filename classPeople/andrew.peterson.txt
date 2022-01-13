@@ -1,3 +1,3 @@
 My Name: Andrew Peterson
-Coding Environment: I like intellij but want to learn to use visual studio more
-Language: Java
+Favorite Coding Environment: I like intellij but want to learn to use visual studio more
+Favorite Language: Java
