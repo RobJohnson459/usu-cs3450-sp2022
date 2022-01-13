@@ -37,4 +37,4 @@ x	Noal Smith
 x	Richard Snider
 x	Dave Storey
 x	Jasper Swensen
-x	Camila Vulcano
+Camila Vulcano (Camila)
