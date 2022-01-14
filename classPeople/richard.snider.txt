@@ -1,0 +1,8 @@
+Name:
+Richard Snider
+
+Favorite Coding Environment:
+Vim
+
+Favorite Language:
+Rust
