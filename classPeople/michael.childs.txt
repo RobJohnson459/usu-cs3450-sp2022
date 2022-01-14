@@ -1,0 +1,3 @@
+Name: Michael Childs
+Coding Environment: VS Code
+Favorite Language: Java or C++ (I'm torn between them)
