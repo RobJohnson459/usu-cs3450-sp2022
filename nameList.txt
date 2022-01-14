@@ -15,13 +15,13 @@ x	Braeden Grant
 x	Jacob Haight
 x	Joshua Hamby
 x	Alexander Hardy
-x	Matthew Hill
+Matthew Hill (Matt)
 x	Jacob Holbrook
-x	Logan Hunt
+Logan Hunt
 x	Trevor Jex
 x	Rob Johnson
 Samuel Johnson (Sam)
-x	Hagen Larsen
+Hagen Larsen (Hagen)
 x	Thomas Lau
 x	Xander Matheson
 x	Brian Mathews
@@ -33,7 +33,7 @@ x	Andrew Peterson
 x	Matt Scribner
 x	James Seelos
 x	James Slade
-x	Noal Smith
+Noal Smith
 x	Richard Snider
 x	Dave Storey
 x	Jasper Swensen
