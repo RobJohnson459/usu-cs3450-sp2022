@@ -38,3 +38,4 @@ x	Richard Snider
 x	Dave Storey
 x	Jasper Swensen
 x	Camila Vulcano
+Tom Waite (Tom)
