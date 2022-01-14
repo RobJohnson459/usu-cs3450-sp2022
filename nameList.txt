@@ -7,21 +7,21 @@ x	Jade Blunt
 x	Michael Childs
 x	Jake Cogswell
 x	Bennett DenBleyker
-x	Hailey Dennis
+Hailey Dennis (Hailey)
 x	Jake Epperson
 x	James Field
 x	Bryce Flammer
 x	Braeden Grant
 x	Jacob Haight
-x	Joshua Hamby
+Joshua Hamby (Josh)
 Alexander Hardy (Alex)
-x	Matthew Hill
+Matthew Hill (Matt)
 x	Jacob Holbrook
-x	Logan Hunt
+Logan Hunt
 x	Trevor Jex
 x	Rob Johnson
-x	Samuel Johnson
-x	Hagen Larsen
+Samuel Johnson (Sam)
+Hagen Larsen (Hagen)
 x	Thomas Lau
 x	Xander Matheson
 x	Brian Mathews
@@ -33,8 +33,9 @@ x	Andrew Peterson
 x	Matt Scribner
 x	James Seelos
 x	James Slade
-x	Noal Smith
-x	Richard Snider
+Noal Smith
+Richard Snider (Richard)
 x	Dave Storey
 x	Jasper Swensen
 x	Camila Vulcano
+Tom Waite (Tom)
