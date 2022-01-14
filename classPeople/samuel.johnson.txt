@@ -1,0 +1,3 @@
+Name: Samuel Johnson
+Favorite Coding Environment: IntelliJ IDEA, or Notepad++
+Favorite Language: Java
