@@ -25,7 +25,7 @@ x	Hagen Larsen
 x	Thomas Lau
 x	Xander Matheson
 x	Brian Mathews
-x	Kyler Nelson
+Kyler Nelson (Kyler)
 x	Quinn Ormond
 x	Aryan Osqueezadeh
 x	Wesley Perrett
