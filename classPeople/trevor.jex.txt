@@ -1,0 +1,3 @@
+Trevor
+I prefer VS Code using the Monokai theme. I prefer using Linux.
+My favorite language (for now) is Golang (with Typescript as a close second)

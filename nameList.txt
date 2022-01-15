@@ -1,40 +1,54 @@
-x	Ian Adams
-x	Keaton Anderson
-x	Kelsye Anderson
-x	Logan Ballard
-x	Matthew Bingham
-x	Jade Blunt
-x	Michael Childs
-x	Jake Cogswell
+Ian Adams (Ian)
+Keaton Anderson (Keaton)
+Kelsye Anderson (Kelsye)
+Logan Ballard (Logan)
+Jade Blunt (Jade)
+Matthew Bingham (Matthew or Matt)
+Michael Childs (Michael)
+Jake Cogswell (Jake)
 x	Bennett DenBleyker
-x	Hailey Dennis
-x	Jake Epperson
-x	James Field
+Hailey Dennis (Hailey)
+Jake Epperson
+James Field (James)
 x	Bryce Flammer
 x	Braeden Grant
-x	Jacob Haight
 x	Joshua Hamby
 x	Alexander Hardy
 x	Matthew Hill
 x	Jacob Holbrook
-Logan Hunt
+x	Logan Hunt
 x	Trevor Jex
 x	Rob Johnson
 x	Samuel Johnson
+x	Hagen Larsen
+James Field (James)
+Bryce Flammer (Bryce)
+Braeden Grant (Braeden)
+Jacob Haight (Jacob)
+Joshua Hamby (Josh)
+Alexander Hardy (Alex)
+Matthew Hill (Matt)
+Jacob Holbrook (Jake)
+Logan Hunt
+Trevor Jex (Trevor)
+Samuel Johnson (Sam)
 Hagen Larsen (Hagen)
 Thomas Lau (Tom)
 x	Xander Matheson
-x	Brian Mathews
-x	Kyler Nelson
-x	Quinn Ormond
-x	Aryan Osqueezadeh
+Xander Matheson (Xander)
+Brian Mathews (Brian)
+Kyler Nelson (Kyler)
+Quinn Ormond (Quinn)
+Aryan Osqueezadeh
 x	Wesley Perrett
-x	Andrew Peterson
-x	Matt Scribner
-x	James Seelos
+Andrew Peterson (Andrew)
 x	James Slade
+Matt Scribner (Matt)
+James Seelos
+James Slade (Aaron)
 Noal Smith
-x	Richard Snider
-x	Dave Storey
+Richard Snider (Richard)
+Dave Storey (Dave)
 x	Jasper Swensen
-x	Camila Vulcano
+Camila Vulcano (Camila)
+Tom Waite (Tom)
