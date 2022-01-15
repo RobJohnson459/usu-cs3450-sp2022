@@ -1,0 +1,3 @@
+Name: James Slade
+Favorite IDE: Visual Studio
+Favorite Programming Language: Java
